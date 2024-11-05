@@ -76,9 +76,9 @@ These are some of the visuals from pivot tables, SQL and an interactive PowerBI 
 This analysis shows that customers prefer the Basic subscription package to other types due to its affordable rate. It further reveals that the Eastern and Southern regions have come to embrace our subscription packages regardless of the type.
 ### RECOMMENDATIONS
 - create more awareness on the advantage of premium subscription package
-- to make the premium package more attractive by introducing new perks while reducing cancellations.👌
+- to make the premium package more attractive by introducing new perks while reducing cancellations.
 - to employ field marketers in the north and west regions to create awareness on how to use different subscription packages to their advantage
-- improve on the premium subscription type to attract more customers to subscribe
+- improve on the premium subscription type to attract more customers to subscribe 👌
 ### THANK YOU ❤️
 
 
