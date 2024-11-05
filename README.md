@@ -27,6 +27,27 @@ At the preliminary stage of the data cleaning and preparations process, we perfo
 1. Data loading and inspection
 2. Handling missing variables
 3. Data cleaning and formatting
+### EXPLORATORY DATA ANALYSIS
+This involves exploring of the data to answer some questions such as;
+- Which region recorded the highest sales revenue in customers' subscription
+- What is the sum of sales Revenue
+- What is the top selling subscription type
+- Top 5 customers
+- What is the sum of revenue by region
+### DATA ANALYSIS
+INSIGHTS
+
+i. Incubator hub recorded $68M in total revenue for 2024 with the Eastern Region recording a total of $16,958,763M in sales which makes the South the region with the highest sales revenue.
+
+ii. The top selling Product for Incubator hub retail store for 2024 is Shoes which recorded a total sales revenue of $613,380. 
+
+iii. This analysis further highlights Incubator Hub's highest selling Product which is shoes. 
+
+iv. The average sales for the year rests at $211. 
+
+This indeed has been a profitable year for Incubator hub retail store. We implore investors to invest in the shoes department. Below is a picture of our sales trend using pivot tables in Excel;
+
+ 
 ### DATA VISUALIZATION
 These are the visuals from pivot tables, SQL and an interactive PowerBI dashboard to visualize my findings.
 ![Screenshot (1)](https://github.com/user-attachments/assets/c954733b-9cf6-4c47-af35-8a00b5bde2c2)
