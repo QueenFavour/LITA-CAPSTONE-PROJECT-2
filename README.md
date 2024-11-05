@@ -63,6 +63,20 @@ ii. The top selling subscription type for customers is the Basic subscription ty
 iii. The top 2 performing regions are the East and South regions with a total of $34M in subscription sales.
 
 iv. The top five customers are  Anna, Liam, Mike, Nina and Sophia
+
+```Excel
+
+
+
+SUM MAX AVERAGE MULTIPLY
+```
+
+```SQL
+
+
+SELECT WHERE ORDERBY GROUPBY SUM GETDATE()) DATEDIFF =
+```
+
 ### DATA VISUALIZATION
 These are some of the visuals from pivot tables, SQL and an interactive PowerBI dashboard to visualize a well detailed representation of my analysis.
 
