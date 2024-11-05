@@ -1,5 +1,19 @@
 ### LITA-CAPSTONE-PROJECT-2
 This repository describes customer segmentation as regards their subscription type and revenue.
+[DATA SOURCE](#data-source)
+
+[DATA CLEANING AND PREPARATIONS](#data-cleaning-and-preparations)
+
+[EXPLORATORY DATA ANALYSIS](#exploratory-data-analysis)
+
+[DATA ANALYSIS](#data-analysis)
+
+[DATA VISUALIZATION](#data-visualization)
+
+[CONCLUSION](#conclusion)
+
+[RECOMMENDATIONS](#recommendations)
+
 ### PROJECT TITLE
 Customer Segmentation for a Subscription Service
 ### PROJECT OVERVIEW
