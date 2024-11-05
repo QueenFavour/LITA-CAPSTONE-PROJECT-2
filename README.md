@@ -39,10 +39,18 @@ Microsoft PowerBI
 ### DATA SOURCE
 The Primary Data used here is lita capstone project.xlsx for customer subscription data. This is gotten from an open source data site such as kaggle.
 ### DATA CLEANING AND PREPARATIONS
-At the preliminary stage of the data cleaning and preparations process, we performed the following actions;
-1. Data loading and inspection
-2. Handling missing variables
-3. Data cleaning and formatting
+At the preliminary stage of the data cleaning and preparations process, we performed the following actions
+I.Data loading and inspection.
+
+Data loading and inspection are crucial steps in data analysis, ensuring accuracy and reliability. In Excel, data is loaded through importing CSV or Excel files, while in SQL, data is queried from databases using SELECT statements. Once loaded, data inspection involves checking for missing values, outliers, and data types using Excel's Data Validation or SQL's summary statistics. Power BI enhances data inspection through interactive visualizations, allowing users to quickly identify trends and anomalies. Using Power BI's Data Profiling tool, distribution, quality, and relationships within the data can be examined.
+
+ii. Handling missing variables
+
+In Excel, missing values can be handled using tools like the Data Validation tool to replace blanks with specific text. Power BI provides features like "Fill" and "Replace Blank" to handle missing values, as well as the "Modeling" tab's "New Table" feature to create calculated tables that account for missing data.
+
+iii. Data cleaning and formatting
+
+In Excel, data cleaning involves removing duplicates (using "Remove Duplicates" tool), and formatting data (using Text to Columns, Trim, and PROPER functions). Power BI's Power Query Editor provides feature like  "Transform" to remove blanks, trim text, and change data types. Excel's "Data Validation" and Power BI's "Data Profiling" tools help identify inconsistencies and errors.
 ### EXPLORATORY DATA ANALYSIS
 This involves exploring of the data to answer some questions such as;
 - Which region recorded the highest sales revenue in customers' subscription
