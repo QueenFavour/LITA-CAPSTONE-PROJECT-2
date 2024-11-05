@@ -55,17 +55,14 @@ INSIGHTS
 
 i. Incubator hub recorded $68M in total revenue for 2024 with the Eastern Region recording a total of $16,958,763M in sales which makes the Eastern region the highest in sales revenue.
 
-ii. The top selling subscription type for customers is the Basic subscription type. 
+ii. The top selling subscription type for customers is the Basic subscription type due to it's affordability.
 
 iii. The top 2 performing regions are the East and South regions with a total of $34M in subscription sales.
 
 iv. The top five customers are  Anna, Liam, Mike, Nina and Sophia
-
-This indeed has been a profitable year for Incubator hub retail store. We implore investors to invest in the shoes department. Below is a picture of our sales trend using pivot tables in Excel;
-
- 
 ### DATA VISUALIZATION
-These are some of the visuals from pivot tables, SQL and an interactive PowerBI dashboard to visualize showing a well detailed representation of my analysis.
+These are some of the visuals from pivot tables, SQL and an interactive PowerBI dashboard to visualize a well detailed representation of my analysis.
+
 ![Screenshot (1)](https://github.com/user-attachments/assets/c954733b-9cf6-4c47-af35-8a00b5bde2c2)
 ![Screenshot (4)](https://github.com/user-attachments/assets/f4d83cd5-36b3-4f32-84f7-f2adec2b5629)
 ![Screenshot (11)](https://github.com/user-attachments/assets/41d6a2ba-6aec-4bf1-92f4-cb46fadc7fae)
