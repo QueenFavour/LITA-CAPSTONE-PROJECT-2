@@ -1,4 +1,4 @@
-### LITA-CAPSTONE-PROJECT-2
+### CUSTOMER-SEGMENTATION-DATA
 This repository describes customer segmentation as regards their subscription type and revenue.
 
 [DATA SOURCE](#data-source)
